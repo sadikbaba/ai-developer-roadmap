@@ -21,7 +21,7 @@
 ⏱ *4–6 weeks*
 
 - **Python:** loops, functions, OOP, NumPy, Pandas
-- **Math:** linear algebra, statistics, gradient intuition
+- **Math:** linear algebra, statistics, gradient intuition, DSA
 - **Tools:** VS Code, Jupyter Notebooks, Git/GitHub
 
 ---
